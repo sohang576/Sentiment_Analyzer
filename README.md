@@ -51,10 +51,6 @@ Example format:
 | "This movie was amazing!" | Positive |
 | "The product quality is terrible." | Negative |
 
-📊 **Dataset Samples**
-
-[INSERT DATASET SAMPLE IMAGE HERE]
-
 ---
 
 # Technologies Used
@@ -147,14 +143,6 @@ Gradients are computed and used to update model parameters.
 ### Evaluation
 The model is evaluated on the validation dataset to monitor performance.
 
-📈 **Training Accuracy**
-
-[INSERT TRAINING ACCURACY GRAPH HERE]
-
-📉 **Training Loss Curve**
-
-[INSERT LOSS GRAPH HERE]
-
 ---
 
 # Model Evaluation
@@ -167,7 +155,9 @@ The model performance is evaluated using:
 
 📊 **Confusion Matrix**
 
-[INSERT CONFUSION MATRIX IMAGE HERE]
+<img width="578" height="455" alt="image" src="https://github.com/user-attachments/assets/b67e5aab-d4c8-494f-8ff2-a65e5fa23160" />
+
+
 
 ---
 
